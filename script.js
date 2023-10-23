@@ -42,7 +42,7 @@ spin.animate(spinKeyframes, spinOptions);
 const color = document.querySelector('.color');
 
 const colorKeyframes = {
-  backgroundColor: ['orange ','yellow ','lightgreen','slyblue'],
+  backgroundColor: ['lightpink','hotpink','violet','purple'],
 }
 
 const colorOptions = {
